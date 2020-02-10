@@ -1,0 +1,16 @@
+{
+  "docs": {
+    "Halaman Utama": [
+      "introduction",
+      "how-to-use"
+    ],
+    "Development Page": [
+      "changelog"
+    ]
+  },
+  "docs-other": {
+    "Authentication": [
+      "api/api-introduction"
+    ]
+  }
+}
