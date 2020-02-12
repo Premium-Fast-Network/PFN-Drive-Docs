@@ -24,6 +24,7 @@ const siteConfig = {
   title: 'PFNDrive Docs', // Title for your website.
   tagline: 'PFNDrive Documentation',
   url: 'https://docs.pfndrive.my.id', // Your website URL
+  cname: 'docs.pfndrive.my.id',
   baseUrl: '/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
