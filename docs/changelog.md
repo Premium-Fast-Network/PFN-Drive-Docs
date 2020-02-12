@@ -4,8 +4,11 @@ title: Changelog
 sidebar_label: Changelog
 ---
 
-## 2020-02-10
-
+## 2020-02-12
+- Website Sudah Online dan Bisa digunakan
+- Perbaikan bugs pada sync file dan share file ke email yang salah
+- Perbaikan cache token di sync files
+- Perbaikan pengecekan size file
 
 ## 2020-02-06
 - Integrasi dan sinkronasi sistem download dan upload ke google drive telah selesai. Selanjutnya akan kami lakukan testing manual dan melanjutkan integrasi ke frontend.
