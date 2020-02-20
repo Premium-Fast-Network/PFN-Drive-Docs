@@ -4,15 +4,26 @@ title: Changelog
 sidebar_label: Changelog
 ---
 
+## 2020-02-20
+### Added
+- [Frontend] Show FileSize in Files Tab (#11)
+- [Frontend] Added CreatedAt and UpdatedAt in Show Files (#17)
+- [Frontend] Added Sidebar Menu to Documentation and Changelog (#15)
+
+### Fixed
+- [Frontend] Fixed FileSize Showing in Bytes when click Show Files (#12)
+- [Frontend] Fixed Column Url Textarea from 10 cols to 5 cols (#13)
+- [Frontend] Change Input Type Name to Textarea (#16)
+
 ## 2020-02-19
 ### Added
 - Migration Development Tracking to Trello
-- [Frontend] Short Url in Files Tabs and Sort Order by Date DESC `#9`
-- [Frontend] Change Text Input URL to Textarea in Home and Show Files `#10`
+- [Frontend] Short Url in Files Tabs and Sort Order by Date DESC (#9)
+- [Frontend] Change Text Input URL to Textarea in Home and Show Files (#10)
 
 ### Fixed
-- [Bugs] Error Open Detail Google Drive Account `#7`
-- [Bugs] When user premium add url from leechbox or seedbox, PFNDrive crash `#8`
+- [Bugs] Error Open Detail Google Drive Account (#7)
+- [Bugs] When user premium add url from leechbox or seedbox, PFNDrive crash (#8)
 
 ## 2020-02-12
 - Website Sudah Online dan Bisa digunakan
