@@ -4,6 +4,10 @@ title: Changelog
 sidebar_label: Changelog
 ---
 
+## 2020-03-25
+### Fixed
+- [Backend] Ketika user premium menambahkan files ke PFNDrive, PFNDrive memilih akun google drive yang salah jika user premium tersebut tidak ada akun google drive sendiri. (#19)
+
 ## 2020-02-20
 ### Added
 - [Frontend] Show FileSize in Files Tab (#11)
